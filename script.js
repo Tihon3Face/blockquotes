@@ -3,7 +3,9 @@ let arr = `«Возможности не приходят сами — вы со
 «Возьмите идею. Сделайте ее своей жизнью — думайте о ней, мечтайте о ней, живите ею. Пусть ваш разум, мышцы, нервы, каждая часть тела будет наполнена этой одной идеей. Вот он — путь к успеху». Свами Вивекананда (Swami Vivekananda)
 «Чтобы достичь успеха, перестаньте гнаться за деньгами, гонитесь за мечтой». Тони Шей (Tony Hsieh)
 «Даже если вы проходите через ад, продолжайте идти». Уинстон Черчилль (Winston Churchill)
+«Тот, кто не сталкивался с трудностями, не познает силы. Тому, кто не знавал бедствий, не нужна смелость. Загадочно, однако, то, что самые лучшие черты характера в человеке, как раз и прорастают в почве, наполненной трудностями». Гарри Эмерсон Фосдик (Harry Emerson Fosdick)
 «Не бойтесь пожертвовать хорошим ради еще лучшего». Джон Рокфеллер (John D. Rockfeller)
+«Тот, кто не сталкивался с трудностями, не познает силы. Тому, кто не знавал бедствий, не нужна смелость. Загадочно, однако, то, что самые лучшие черты характера в человеке, как раз и прорастают в почве, наполненной трудностями». Гарри Эмерсон Фосдик (Harry Emerson Fosdick)
 «Есть два вида людей, которые будут вам говорить, что вы не сможете чего-то добиться: те, кто сами боятся пробовать, и те, кто боятся, что у вас получится». Рей Гофорт (Ray Goforth)
 «Успешные люди делают то, что неуспешные не хотят делать. Не стремитесь, чтобы было легче, стремитесь, чтобы было лучше». Джим Рон (Jim Rohn)
 «Многие люди терпят неудачу только потому, что сдаются в двух шагах от успеха». Саймон Хартли (Simon Hartley)
@@ -18,6 +20,7 @@ let arr = `«Возможности не приходят сами — вы со
 «Всегда помните о том, что ваша решимость преуспеть важнее всего остального». Авраам Линкольн (Abraham Lincoln)
 «Я твердо верю в удачу, и я заметил: чем больше я работаю, тем я удачливее». Томас Джефферсон (Thomas Jefferson)
 «Пока у тебя есть попытка – ты не проиграл». (Сергей Бубка)
+«Тот, кто не сталкивался с трудностями, не познает силы. Тому, кто не знавал бедствий, не нужна смелость. Загадочно, однако, то, что самые лучшие черты характера в человеке, как раз и прорастают в почве, наполненной трудностями». Гарри Эмерсон Фосдик (Harry Emerson Fosdick)
 «Я этого хочу. Значит, это будет». Генри Форд (Henry Ford)
 «Если ты рожден без крыльев, не мешай им расти». Коко Шанель (Gabrielle Bonheur “Coco” Chanel)
 «Я не терпел поражений. Я просто нашёл 10 000 способов, которые не работают». Томас Эдисон (Thomas Alva Edison)
@@ -36,6 +39,7 @@ let arr = `«Возможности не приходят сами — вы со
 «Каждая мечта тебе даётся вместе с силами, необходимыми для её осуществления. Однако тебе, возможно, придётся ради этого потрудиться». Ричард Бах (Richard David Bach)
 «Чтобы дойти до цели, человеку нужно только одно. Идти». Оноре де Бальзак (Honore Balzac)
 «Бог не фраер - всё видит» Жуковский Максим (Жук Макс)
+«Тот, кто не сталкивался с трудностями, не познает силы. Тому, кто не знавал бедствий, не нужна смелость. Загадочно, однако, то, что самые лучшие черты характера в человеке, как раз и прорастают в почве, наполненной трудностями». Гарри Эмерсон Фосдик (Harry Emerson Fosdick)
 «Ты никогда не переплывёшь океан, если будешь бояться потерять берег из виду». Христофор Колумб (Christopher Columbus)
 «Желание добиться успеха без упорного труда схоже с желанием снять урожай там, где вы не сажали семена». Дэвид Блай (David Bly)
 «Мы рождены быть настойчивыми, ибо только через настойчивость узнаем, чего мы стоим на самом деле». Тобиас Вульф (Tobias Jonathan Ansell Wolff)
@@ -43,6 +47,7 @@ let arr = `«Возможности не приходят сами — вы со
 «Бог не фраер - всё видит» Жуковский Максим (Жук Макс)
 «Говорят, что мотивация длится не долго. Что ж, свежесть после ванны — тоже. Поэтому заботиться о них стоит ежедневно». Зиг Зиглар (Zig Ziglar)
 «Поверьте, что сможете, и полпути уже пройдено». Теодор Рузвельт (Theodore Roosevelt)
+«Тот, кто не сталкивался с трудностями, не познает силы. Тому, кто не знавал бедствий, не нужна смелость. Загадочно, однако, то, что самые лучшие черты характера в человеке, как раз и прорастают в почве, наполненной трудностями». Гарри Эмерсон Фосдик (Harry Emerson Fosdick)
 «Когда закрывается одна дверь в счастье, открывается другая. Но мы зачастую слишком долго смотрим на закрытую дверь, чтобы увидеть, что нам открылось». Хелен Келлер (Helen Keller)
 «Если останавливаться всякий раз, когда тебя оскорбляют или в тебя плюются, то ты никогда не дойдешь до места, куда тебе надо попасть». Тибор Фишер (Tibor Fischer)
 «Столкнувшись с трудностями, нельзя сдаваться, бежать. Вы должны оценивать ситуацию, искать решения и верить в то, что все делается к лучшему. Терпение – вот ключ к победе». Ник Вуйчич (Nicholas James Vujicic)
@@ -55,6 +60,7 @@ let arr = `«Возможности не приходят сами — вы со
 «Чтобы плыть против течения, рыба должна быть сильной, плыть по течению может даже мёртвая рыба». Джон Кроу Рэнсом (John Crowe Ransom)
 «Или вы управляете днём, или день управляет вами». Джим Рон (Jim Rohn)
 «Бог не фраер - всё видит» Жуковский Максим (Жук Макс)
+«Тот, кто не сталкивался с трудностями, не познает силы. Тому, кто не знавал бедствий, не нужна смелость. Загадочно, однако, то, что самые лучшие черты характера в человеке, как раз и прорастают в почве, наполненной трудностями». Гарри Эмерсон Фосдик (Harry Emerson Fosdick)
 «Гонясь за недостижимым, мы совершаем невозможное». Роберт Ардри (Robert Ardrey)
 «Учитесь на своих ошибках, признайте их и двигайтесь дальше». Стив Джобс (Steven Paul Jobs)
 «Успех – дрянной учитель. Он провоцирует рассудительных людей рассуждать, что они не могут проиграть». Билл Гейтс (William Henry Gates)
@@ -64,7 +70,7 @@ let arr = `«Возможности не приходят сами — вы со
 «Бог не фраер - всё видит» Жуковский Максим (Жук Макс)`;
 arr = arr.split('\n');
 let random1 = arr[Math.floor(Math.random() * arr.length)];
-let quote = document.querySelector('blockquote');
+let quote = document.querySelectorAll('blockquote')[0];
 quote.innerHTML = random1;
 let pictureArr = `https://mobimg.b-cdn.net/v3/fetch/72/72570dc2590f4e775fe6ac9395cd0623.jpeg
 https://media.krasota.ru/filer_public/09/35/093591e9-d868-49b0-aca9-16f7d87494e5/seryi_obyknovennyi_volk_res750.jpg
@@ -77,18 +83,30 @@ https://media.krasota.ru/filer_public/ae/26/ae266963-7b0f-4e7c-8d6d-7a812befd840
 pictureArr = pictureArr.split('\n')
 let random2 = pictureArr[Math.floor(Math.random() * pictureArr.length)];
 let element = document.querySelector('.background1');
-let main = document.getElementsByClassName('main')[0];
-let part1 = document.getElementsByClassName('before')[0];
-part1 = getComputedStyle(part1)
-part1 = part1.height; 
-console.log(part1)
-let part2 = document.getElementsByClassName('after')[0];
-part2 = getComputedStyle(part2)
-part2 = part2.height; 
-let part3 = document.getElementsByClassName('container')[0];
-part3 = getComputedStyle(part3)
-part3 = part3.height; 
-let back = document.getElementsByClassName('background1')[0];
-back.style.height = part1+part2+part3;
-main.style.height = part1+part2+part3;
 element.style.background = `url("${random2}") center/cover`;
+
+
+let blockquote = document.getElementsByTagName('blockquote')[0];
+let height1 = getComputedStyle(blockquote);
+height1 = height1.height;
+
+let containerStatic = document.querySelector('.container');
+containerStatic = getComputedStyle(containerStatic);
+containerStatic = containerStatic.height;
+
+let container = document.getElementsByClassName('container')[0];
+let height2 = getComputedStyle(container);
+height2 = height2.height;
+
+let before = document.getElementsByClassName('before')[0];
+let height3 = getComputedStyle(before);
+height3 = height3.height;
+let after = document.getElementsByClassName('after')[0];
+let height4 = getComputedStyle(after);
+height4 = height4.height;
+if(parseFloat(height1) > parseFloat(height2)){
+    container.style.height = parseFloat(height1);
+    let extra = (parseFloat(height1) - parseFloat(containerStatic))/2;
+    before.style.height = `${parseFloat(height3) - extra}px`;
+    after.style.height = `${parseFloat(height4) - extra}px`;
+}
