@@ -12,43 +12,43 @@
 }
 .before{
     position:absolute;
-    height: 27%;
+    height: 20%;
     width:100%;
     top:0;
     background-color:rgba(0, 0, 0, 0.247);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
     z-index: 1;
 }
 .background1{
     background: url("https://media.krasota.ru/filer_public/ae/26/ae266963-7b0f-4e7c-8d6d-7a812befd840/poliarnyi_volk1_res750.jpg") center/cover;
+    overflow: hidden;
     width: 100vw;
     min-width:90vw;
     height:100vh;
     display:flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
 }
 .container{
     max-width: 100vw;
     margin:auto;
-    height: 50vh;
+    height: 60vh;
     display:flex;
     justify-content: center;
     align-items: center;
 }
 .after{
     position:absolute;
-    height:27%;
+    height:20%;
     bottom:0;
     background-color:rgba(0, 0, 0, 0.247);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
     width:100%;
     z-index: 1;
 }
 blockquote{
     min-width:300px;
-    margin:100px;
+    margin:10vh 10vw 10vh 10vw;
     color:white;
     text-align: center;
     font-family: 'Calibri';
