@@ -77,4 +77,18 @@ https://media.krasota.ru/filer_public/ae/26/ae266963-7b0f-4e7c-8d6d-7a812befd840
 pictureArr = pictureArr.split('\n')
 let random2 = pictureArr[Math.floor(Math.random() * pictureArr.length)];
 let element = document.querySelector('.background1');
+let main = document.getElementsByClassName('main')[0];
+let part1 = document.getElementsByClassName('before')[0];
+part1 = getComputedStyle(part1)
+part1 = part1.height; 
+console.log(part1)
+let part2 = document.getElementsByClassName('after')[0];
+part2 = getComputedStyle(part2)
+part2 = part2.height; 
+let part3 = document.getElementsByClassName('container')[0];
+part3 = getComputedStyle(part3)
+part3 = part3.height; 
+let back = document.getElementsByClassName('background1')[0];
+back.style.height = part1+part2+part3;
+main.style.height = part1+part2+part3;
 element.style.background = `url("${random2}") center/cover`;
