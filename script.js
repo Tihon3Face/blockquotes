@@ -82,31 +82,7 @@ https://media.krasota.ru/filer_public/3d/ac/3daca831-9c3c-40b5-8dd1-e0f66cd3246d
 https://media.krasota.ru/filer_public/ae/26/ae266963-7b0f-4e7c-8d6d-7a812befd840/poliarnyi_volk1_res750.jpg`;
 pictureArr = pictureArr.split('\n')
 let random2 = pictureArr[Math.floor(Math.random() * pictureArr.length)];
-let element = document.querySelector('.background1');
-element.style.background = `url("${random2}") center/cover`;
-
-
-let blockquote = document.getElementsByTagName('blockquote')[0];
-let height1 = getComputedStyle(blockquote);
-height1 = height1.height;
-
-let containerStatic = document.querySelector('.container');
-containerStatic = getComputedStyle(containerStatic);
-containerStatic = containerStatic.height;
-
-let container = document.getElementsByClassName('container')[0];
-let height2 = getComputedStyle(container);
-height2 = height2.height;
-
-let before = document.getElementsByClassName('before')[0];
-let height3 = getComputedStyle(before);
-height3 = height3.height;
-let after = document.getElementsByClassName('after')[0];
-let height4 = getComputedStyle(after);
-height4 = height4.height;
-if(parseFloat(height1) > parseFloat(height2)){
-    container.style.height = parseFloat(height1);
-    let extra = (parseFloat(height1) - parseFloat(containerStatic))/2;
-    before.style.height = `${parseFloat(height3) - extra}px`;
-    after.style.height = `${parseFloat(height4) - extra}px`;
-}
+let element1 = document.querySelector('.background');
+element1.style.background = `url("${random2}") center/cover`;
+let element2 = document.querySelector('blockquote');
+element2.style.background = `url("${random2}") center/cover`;
