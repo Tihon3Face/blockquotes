@@ -41,38 +41,6 @@ blockquote{
     align-items: center;
     text-align: center;
     font-family: 'Calibri';
-    font-size: 50px;
+    font-size:calc(10px + 30 * (100vw / 1280));
     -webkit-text-stroke: black;
-    -webkit-text-stroke-width: 1px;
-}
-@media(max-width:880px){
-    blockquote{
-        font-size: 40px;
-    }
-}
-@media(max-width:680px){
-    blockquote{
-        font-size: 30px;
-        -webkit-text-stroke-width: 0px;
-    }
-}
-@media(max-width:580px){
-    blockquote{
-        font-size: 25px;
-    }
-}
-@media(max-width:400px){
-    blockquote{
-        font-size: 20px;
-    }
-}
-@media(max-height:640px){
-    blockquote{
-        font-size: 25px;
-    }
-}
-@media(max-height:390px){
-    blockquote{
-        font-size: 30px;
-    }
 }
